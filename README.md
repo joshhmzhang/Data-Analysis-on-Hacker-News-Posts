@@ -20,12 +20,12 @@ The projects inludes two parts:
 
 Part 1
 
-Explores the most post on Hacker News？
-Do Ask HN or Show HN receive more comments on average?
-Do posts created at a certain time receive more comments on average?
+1. Explores the most post on Hacker News？
+2. Do Ask HN or Show HN receive more comments on average?
+3. Do posts created at a certain time receive more comments on average?
 
 Part 2 (use pandas)
 
-For all post, Determine if posts created at a certain time are more likely to receive more points.
-Which users are popular in HN post?
+1. For all post, Determine if posts created at a certain time are more likely to receive more points.
+2. Which users are popular in HN post?
 
